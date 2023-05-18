@@ -1,0 +1,12 @@
+[
+  "The only way to do great work is to love what you do.",
+  "If you can dream it, you can do it.",
+  "The only person you are destined to become is the person you decide to be.",
+  "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+  "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+  "The future belongs to those who believe in the beauty of their dreams.",
+  "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+  "It's not how much you have, but how much you enjoy, that makes happiness.",
+  "Happiness is not something ready made. It comes from your own actions.",
+  "The more you sweat in peace, the less you bleed in war.",
+];
