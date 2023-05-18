@@ -1,2 +1,2 @@
-# flutter-workshop
-Source code for my Flutter Foundation workshop.
+# Flutter Foundation Workshop
+Source code and materials for my Flutter Foundation workshop.
