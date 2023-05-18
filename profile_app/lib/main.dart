@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
+    title: "Profile App",
     theme: ThemeData(
       fontFamily: "Poppins",
       colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
