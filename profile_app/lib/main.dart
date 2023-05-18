@@ -87,9 +87,17 @@ class _HomePageState extends State<HomePage> {
               height: 20,
             ),
             // like count section
-            const Text(
-              "LIKE COUNT",
-              style: TextStyle(fontWeight: FontWeight.bold),
+            const Row(
+              children: [
+                Icon(Icons.thumb_up),
+                SizedBox(
+                  width: 8,
+                ),
+                Text(
+                  "LIKE COUNT",
+                  style: TextStyle(fontWeight: FontWeight.bold),
+                ),
+              ],
             ),
             const SizedBox(
               height: 6,
